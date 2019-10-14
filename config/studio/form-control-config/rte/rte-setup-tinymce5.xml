@@ -40,23 +40,10 @@
 			textpattern help acecode
         </plugins>
 
-<styleFormats>
- <![CDATA[
-   [{title : 'Bold text', inline : 'b'}, 
-    {title : 'Red text', inline : 'span', styles : {color : '#ff0000'}}, 
-    {title : 'Red header', block : 'h1', styles : {color : '#ff0000'}}, 
-    {title : 'Example 1', inline :'span', classes : 'example1'}, 
-    {title : 'Example 2', inline :'span', classes : 'example2'}, 
-    {title : 'Image styles'}, 
-       {title : 'Circular', selector : 'img', classes : 'img-circ'},
-    {title : 'Table styles'}, 
-       {title : 'Table row 1', selector : 'tr', classes : 'tablerow1'}]
-    ]]>
- </styleFormats>
         <toolbarItems1>
             formatselect | bold italic strikethrough forecolor backcolor | link | alignleft aligncenter alignright alignjustify | numlist bullist outdent indent | removeformat
         </toolbarItems1>
-        <toolbarItems2>formatselect, styleselect,|,bold,italic,underline,strikethrough,|,sub,sup,charmap,|,outdent,indent,blockquote,|,justifyleft,justifycenter,justifyright,justifyfull,|,bullist,numlist,|,managedImage,link,unlink,anchor,|,edithtml,|,undo,redo</toolbarItems2>
+        <toolbarItems2></toolbarItems2>
         <toolbarItems3></toolbarItems3>
         <toolbarItems4></toolbarItems4>
     </setup>
