@@ -25,3 +25,4 @@ def searchHelper = new SearchHelper(elasticsearch, urlTransformationService)
 def articles = searchHelper.searchArticles(false, category, segment, 0, maxArticles)
 
 templateModel.articles = articles
+profile
