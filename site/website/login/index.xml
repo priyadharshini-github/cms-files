@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/category-landing</content-type>	<display-template>/templates/web/pages/category-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>43b6</objectGroupId>
+	<objectId>43b61ebc-15d8-91a6-f424-2f69c8ecce87</objectId>
+	<disabled>false</disabled>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>login</folder-name>
+	<internal-name>Login</internal-name>
+	<title_t>Login</title_t>
+	<articles_title_t>Login</articles_title_t>
+	<header_o item-list="true"/>
+	<left-rail_o item-list="true"/>
+	<category_s>Login</category_s>
+	<max_articles_i>10</max_articles_i>
+	<createdDate>2019-10-14T09:26:51.938Z</createdDate>
+	<createdDate_dt>2019-10-14T09:26:51.938Z</createdDate_dt>
+	<lastModifiedDate>2019-10-14T09:26:51.938Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-10-14T09:26:51.938Z</lastModifiedDate_dt>
+</page>
