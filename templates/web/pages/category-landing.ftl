@@ -27,9 +27,7 @@
 
 							<!-- Header -->
 							<@renderComponent component=contentModel.header_o.item />
-<#import "/templates/system/common/cstudio-support.ftl" as studio />
-<div <@studio.componentAttr path=contentModel.storeUrl ice=false /> >
-COMPONENT MARKUP</div>
+
 							<!-- Section -->
 								<section <@studio.iceAttr iceGroup="articles"/>>
 									<header class="main">
