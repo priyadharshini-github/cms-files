@@ -20,6 +20,6 @@ import org.craftercms.sites.editorial.ProfileUtils
 
 def segment = ProfileUtils.getSegment(profile, siteItemService)
 def searchHelper = new SearchHelper(elasticsearch, urlTransformationService)
-/*def articles = searchHelper.searchArticles(true, null, segment)
- */
+def articles = searchHelper.searchArticles(true, null, segment)
+
 templateModel.articles = articles
