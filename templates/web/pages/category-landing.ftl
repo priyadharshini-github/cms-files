@@ -33,6 +33,14 @@
 									<header class="main">
 										<h1>${contentModel.articles_title_t}</h1>
 									</header>
+									
+									<div class="span4 mb10" <@studio.componentContainerAttr target="bottomPromos" objectId=contentModel.objectId /> >
+        <#if contentModel.bottomPromos?? && contentModel.bottomPromos.item??>
+                <#list contentModel.bottomPromos.item as module>
+                        <@renderComponent component=module />
+                </#list>
+        </#if>
+</div>
 								</section>
 
 
