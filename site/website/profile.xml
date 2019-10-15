@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/componentpage</content-type>	<display-template>/templates/web/web-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5a1f</objectGroupId>
+	<objectId>5a1ff491-6544-b20c-d095-a71adc20da1a</objectId>
+	<file-name>profile.xml</file-name>
+	<folder-name/>
+	<internal-name>Profile</internal-name>
+	<createdDate>2019-10-15T07:23:16.004Z</createdDate>
+	<createdDate_dt>2019-10-15T07:23:16.004Z</createdDate_dt>
+	<lastModifiedDate>2019-10-15T07:23:16.004Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-10-15T07:23:16.004Z</lastModifiedDate_dt>
+</component>
