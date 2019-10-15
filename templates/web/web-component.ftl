@@ -25,9 +25,7 @@
 					<div id="main">
 						<div class="inner">
 
-							<!-- Header -->
-							<@renderComponent component=contentModel.header_o.item />
-${contentModel.rte2_html}${contentModel.rte1_html}
+${contentModel.rte2_html}
 
 						</div>
 					</div>
