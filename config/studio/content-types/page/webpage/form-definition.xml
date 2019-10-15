@@ -117,6 +117,24 @@
 			<defaultOpen>false</defaultOpen>
 			<fields>
 				<field>
+					<type>label</type>
+					<id>pagename_s</id>
+					<iceId></iceId>
+					<title>pagename</title>
+					<description></description>
+					<defaultValue></defaultValue>
+					<help></help>
+					<properties>
+						<property>
+							<name>text</name>
+							<value></value>
+							<type>string</type>
+						</property>
+					</properties>
+					<constraints>
+					</constraints>
+				</field>
+				<field>
 					<type>rte-tinymce5</type>
 					<id>rte2_html</id>
 					<iceId></iceId>
