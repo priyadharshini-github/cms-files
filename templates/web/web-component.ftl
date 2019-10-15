@@ -28,7 +28,14 @@
 							<!-- Header -->
 							<@renderComponent component=contentModel.header_o.item />
 
-						
+						<#import "/templates/system/common/cstudio-support.ftl" as studio />
+<html lang="en">
+<head>
+	</head>
+	<body>
+	<@studio.toolSupport/>
+	</body>
+</html>
 
 						</div>
 					</div>
