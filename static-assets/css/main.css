@@ -72,6 +72,10 @@
 		-webkit-box-sizing: border-box;
 		box-sizing: border-box;
 	}
+	
+	.padding-t20{
+	    padding-top: 20px;
+	}
 
 /* Grid */
 
