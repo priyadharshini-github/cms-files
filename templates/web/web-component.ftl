@@ -23,7 +23,7 @@
 
 				<!-- Main -->
 					<div id="main">
-						<div class="inner">
+						<div class="inner padding-t20">
 
 ${contentModel.rte2_html}
 
