@@ -53,8 +53,7 @@
 										</#list>
 									</div>
 								</section>
-								
-								<@crafter.renderRTEComponents />
+
 
 						</div>
 					</div>
