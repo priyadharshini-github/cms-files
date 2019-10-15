@@ -22,6 +22,15 @@
 			<div id="wrapper">
 
 				<!-- Main -->
+				<section id="banner" <@studio.iceAttr iceGroup="hero"/>>
+									<div class="content">
+										<header>${contentModel.hero_title_html}</header>
+										${contentModel.hero_text_html}
+									</div>
+									<span class="image object">
+										<img src="${contentModel.hero_image_s !""}" alt="" />
+									</span>
+								</section>
 					<div id="main">
 						<div class="inner padding-t20">
 
