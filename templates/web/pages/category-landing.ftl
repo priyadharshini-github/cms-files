@@ -28,6 +28,7 @@
 							<!-- Header -->
 							<@renderComponent component=contentModel.header_o.item />
 
+<@studio.iceAttr iceGroup="author"/>
 							<!-- Section -->
 								<section <@studio.iceAttr iceGroup="articles"/>>
 									<header class="main">
