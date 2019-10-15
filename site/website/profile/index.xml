@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
-	<content-type>/page/profile</content-type>	<display-template>/templates/web/pages/home.ftl</display-template>
+	<content-type>/page/category-landing</content-type>	<display-template>/templates/web/pages/category-landing.ftl</display-template>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>8c1c</objectGroupId>
@@ -8,15 +8,17 @@
 	<file-name>index.xml</file-name>
 	<folder-name>profile</folder-name>
 	<internal-name>Profile</internal-name>
-	<employeeName_s>Priya</employeeName_s>
-	<emp_s>12345</emp_s>
 	<placeInNav>true</placeInNav>
 	<orderDefault_f>7000</orderDefault_f>
-	<profilepicture_s/>
-	<phone_i>9874563210</phone_i>
-	<sample_html>&lt;p&gt;Sample&lt;/p&gt;</sample_html>
 	<createdDate>2019-10-15T05:59:41.307Z</createdDate>
 	<createdDate_dt>2019-10-15T05:59:41.307Z</createdDate_dt>
-	<lastModifiedDate>2019-10-15T05:59:41.307Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-10-15T05:59:41.307Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-10-15T06:42:21.928Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-10-15T06:42:21.928Z</lastModifiedDate_dt>
+	<title_t>Profile</title_t>
+	<articles_title_t>Profile</articles_title_t>
+	<disabled>false</disabled>
+	<header_o item-list="true"/>
+	<left-rail_o item-list="true"/>
+	<category_s>profile</category_s>
+	<max_articles_i>10</max_articles_i>
 </page>
