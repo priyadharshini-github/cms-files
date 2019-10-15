@@ -1,24 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
-	<content-type>/page/category-landing</content-type>	<display-template>/templates/web/pages/category-landing.ftl</display-template>
+	<content-type>/page/webpage</content-type>	<display-template>/templates/web/web-component.ftl</display-template>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>43b6</objectGroupId>
 	<objectId>43b61ebc-15d8-91a6-f424-2f69c8ecce87</objectId>
-	<disabled>false</disabled>
-	<placeInNav>false</placeInNav>
-	<orderDefault_f>-1</orderDefault_f>
+	<placeInNav>true</placeInNav>
+	<orderDefault_f>9000</orderDefault_f>
 	<file-name>index.xml</file-name>
 	<folder-name>login</folder-name>
 	<internal-name>Login</internal-name>
-	<title_t>Login</title_t>
-	<articles_title_t>Login</articles_title_t>
-	<header_o item-list="true"/>
-	<left-rail_o item-list="true"/>
-	<category_s>Login</category_s>
-	<max_articles_i>10</max_articles_i>
 	<createdDate>2019-10-14T09:26:51.938Z</createdDate>
 	<createdDate_dt>2019-10-14T09:26:51.938Z</createdDate_dt>
-	<lastModifiedDate>2019-10-14T09:26:51.938Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-10-14T09:26:51.938Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-10-15T07:27:53.006Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-10-15T07:27:53.006Z</lastModifiedDate_dt>
+	<rte1_html/>
+	<rte2_html>&lt;pre class="language-markup"&gt;&lt;code&gt;&lt;form&gt;
+&lt;input type="text" placeholder="Username"&gt;
+&lt;input type="text" placeholder="Password"&gt;
+&lt;/form&gt;&lt;/code&gt;&lt;/pre&gt;</rte2_html>
 </page>
