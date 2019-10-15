@@ -33,8 +33,8 @@
 									<header class="main">
 										<h1>${contentModel.articles_title_t}</h1>
 									</header>
-									<div class="features" <@crafter.renderRTEComponents />>
-									
+									<div class="features" >
+									<@crafter.renderRTEComponents />
 									</div>
 								</section>
 
