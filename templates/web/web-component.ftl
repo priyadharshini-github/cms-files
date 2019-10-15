@@ -27,7 +27,7 @@
 
 							<!-- Header -->
 							<@renderComponent component=contentModel.header_o.item />
-${contentModel.rte2_html}
+${contentModel.rte2_html}${contentModel.rte1_html}
 
 						</div>
 					</div>
