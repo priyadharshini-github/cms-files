@@ -29,12 +29,7 @@
 							<@renderComponent component=contentModel.header_o.item />
 
 							<!-- Banner -->
-								<section id="banner" <@studio.iceAttr iceGroup="hero"/>>
-									<div class="content">
-										<header>${contentModel.hero_title_html}</header>
-										${contentModel.hero_text_html}
-									</div>
-								</section>
+								${contentModel.rte2_html}
 
 
 						</div>
