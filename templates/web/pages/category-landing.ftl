@@ -33,12 +33,8 @@
 									<header class="main">
 										<h1>${contentModel.articles_title_t}</h1>
 									</header>
-									<div class="features" <@studio.componentContainerAttr target="features_o" objectId=contentModel.objectId/>>
-										<#if contentModel.features_o?? && contentModel.features_o.item??>
-										  <#list contentModel.features_o.item as feature>
-										      <@renderComponent component=feature />
-										  </#list>
-										</#if>
+									<div class="features" <@crafter.renderRTEComponents />>
+									
 									</div>
 								</section>
 
