@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/profile</content-type>	<display-template>/templates/web/pages/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8c1c</objectGroupId>
+	<objectId>8c1cebdc-0c1b-9099-34dd-ef88d18d7e41</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>profile</folder-name>
+	<internal-name>Profile</internal-name>
+	<employeeName_s>Priya</employeeName_s>
+	<emp_s>12345</emp_s>
+	<placeInNav>true</placeInNav>
+	<orderDefault_f>7000</orderDefault_f>
+	<profilepicture_s/>
+	<phone_i>9874563210</phone_i>
+	<sample_html>&lt;p&gt;Sample&lt;/p&gt;</sample_html>
+	<createdDate>2019-10-15T05:59:41.307Z</createdDate>
+	<createdDate_dt>2019-10-15T05:59:41.307Z</createdDate_dt>
+	<lastModifiedDate>2019-10-15T05:59:41.307Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-10-15T05:59:41.307Z</lastModifiedDate_dt>
+</page>
