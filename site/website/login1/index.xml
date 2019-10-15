@@ -6,17 +6,19 @@
 	<objectGroupId>7ed5</objectGroupId>
 	<objectId>7ed567fc-a6f4-0204-8658-a66ffc5bb5b4</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>login1</folder-name>
-	<internal-name>Login1</internal-name>
+	<folder-name>login</folder-name>
+	<internal-name>Login</internal-name>
 	<placeInNav>true</placeInNav>
 	<orderDefault_f>10000</orderDefault_f>
 	<rte2_html>&lt;h1 style="text-align: center;"&gt;Login&lt;/h1&gt;
-&lt;pre class="language-markup"&gt;&lt;code&gt;&lt;form&gt;
-&lt;input type="text" placeholder="Username"&gt;
-&lt;input type="text" placeholder="Password"&gt;
-&lt;/form&gt;&lt;/code&gt;&lt;/pre&gt;</rte2_html>
+&lt;pre class="language-markup"&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;form&gt;
+&lt;p&gt;&lt;input type="text" placeholder="Username" /&gt; &lt;input type="text" placeholder="Password" /&gt;&lt;/p&gt;
+&lt;pre class="language-markup"&gt;&lt;code&gt;&lt;button type="submit"&gt;Submit&lt;/button&lt;/code&gt;&lt;/pre&gt;
+&lt;/form&gt;
+&lt;pre class="language-markup"&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;</rte2_html>
 	<createdDate>2019-10-15T08:27:43.180Z</createdDate>
 	<createdDate_dt>2019-10-15T08:27:43.180Z</createdDate_dt>
-	<lastModifiedDate>2019-10-15T08:51:58.610Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-10-15T08:51:58.610Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-10-15T08:57:10.175Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-10-15T08:57:10.175Z</lastModifiedDate_dt>
 </page>
