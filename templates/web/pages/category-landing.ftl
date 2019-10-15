@@ -28,32 +28,17 @@
 							<!-- Header -->
 							<@renderComponent component=contentModel.header_o.item />
 
-                            <section <@studio.iceAttr iceGroup="author"/>>
-                            
-                            </section>
 							<!-- Section -->
 								<section <@studio.iceAttr iceGroup="articles"/>>
 									<header class="main">
 										<h1>${contentModel.articles_title_t}</h1>
 									</header>
-									<div class="posts">
-										<#list articles as article>
-										<article>
-											<a href="${article.url}" class="image">
-												<#if article.image??>
-													<#assign articleImage = article.image/>
-												<#else>
-													<#assign articleImage = "/static-assets/images/placeholder.png"/>
-												</#if>
-												<img src="${articleImage}" alt="" />
-											</a>
-											<h3><a href="${article.url}">${article.title}</a></h3>
-											<p>${article.summary}</p>
-											<ul class="actions">
-												<li><a href="${article.url}" class="button">More</a></li>
-											</ul>
-										</article>
-										</#list>
+									<div class="features" <@studio.componentContainerAttr target="features_o" objectId=contentModel.objectId/>>
+										<#if contentModel.features_o?? && contentModel.features_o.item??>
+										  <#list contentModel.features_o.item as feature>
+										      <@renderComponent component=feature />
+										  </#list>
+										</#if>
 									</div>
 								</section>
 
