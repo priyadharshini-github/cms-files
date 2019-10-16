@@ -10,13 +10,17 @@
 	<internal-name>Profile</internal-name>
 	<placeInNav>true</placeInNav>
 	<orderDefault_f>11000</orderDefault_f>
-	<rte2_html>&lt;table style="border-collapse: collapse; width: 100%; height: 42px;" border="1"&gt;
+	<rte2_html>&lt;div class="row"&gt;
+&lt;div class="col-4"&gt;&lt;img src="static-assets/images/profile.jpg" alt="" width="150" height="194" /&gt;&lt;/div&gt;
+&lt;div class="col-8 vertical-align"&gt;
+&lt;div class="mb-5"&gt;&lt;span class="profile-name"&gt;Priya Raaj&lt;/span&gt; &lt;img src="static-assets/images/location1.png" alt="" width="20" height="20" /&gt;&lt;span class="profile-loc"&gt;Chennai, India&lt;/span&gt;&lt;/div&gt;
+&lt;span class="designation"&gt;Web Designer&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;table style="border-collapse: collapse; width: 100%; height: 42px;" border="1"&gt;
 &lt;tbody&gt;
 &lt;tr style="height: 21px;"&gt;
-&lt;td style="width: 35%; height: 21px;"&gt;&lt;img src="static-assets/images/profile.jpg" alt="" width="150" height="194" /&gt;&lt;br /&gt;&lt;/td&gt;
-&lt;td style="width: 65%; height: 21px;"&gt;
-&lt;div class="mb-5"&gt;&lt;span class="profile-name"&gt;Priya Raaj&lt;/span&gt; &lt;img src="static-assets/images/location1.png" alt="" width="20" height="20" /&gt;&lt;span class="profile-loc"&gt;Chennai, India&lt;/span&gt;&lt;/div&gt;
-&lt;span class="designation"&gt;Web Designer&lt;/span&gt;&lt;/td&gt;
+&lt;td style="width: 35%; height: 21px;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 65%; height: 21px;"&gt;&lt;br /&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style="height: 21px;"&gt;
 &lt;td style="width: 35%; height: 21px;"&gt;&lt;br /&gt;&lt;/td&gt;
@@ -62,6 +66,6 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;</rte2_html>
 	<createdDate>2019-10-15T09:04:11.110Z</createdDate>
 	<createdDate_dt>2019-10-15T09:04:11.110Z</createdDate_dt>
-	<lastModifiedDate>2019-10-16T14:32:58.308Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-10-16T14:32:58.308Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-10-16T14:36:02.780Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-10-16T14:36:02.780Z</lastModifiedDate_dt>
 </page>
