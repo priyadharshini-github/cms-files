@@ -48,6 +48,10 @@ p{
 .mt-10{
     margin-top: 10px;
 }
-
+.sub-title{
+    padding: 10px 0px;
+    border-bottom: 1px solid #f56a6a;
+    margin-bottom: 10px;
+}
 
 
