@@ -16,6 +16,7 @@
 		<link rel="stylesheet" href="/static-assets/css/custom.css?v=${siteContext.siteName}" />
 		<!--[if lte IE 9]><link rel="stylesheet" href="/static-assets/css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="/static-assets/css/ie8.css" /><![endif]-->
+		<link rel="stylesheet" href="/static-assets/css/font-awesome.min.css" />
 		<link rel="stylesheet" href="/static-assets/css/jquery-ui.min.css" />
 	</head>
 	<body>
