@@ -1,18 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Slabo+27px&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR&display=swap');
+/*font-family: 'Roboto', sans-serif;
+font-family: 'Slabo 27px', serif;
+font-family: 'Nanum Gothic', sans-serif;
+font-family: 'Noto Sans KR', sans-serif;*/
 
 .profile-name{
-    color: #444;
-    font-size: 22px;
+    color: #f56a6a;
+    font-size: 24px;
     font-weight: bold;
 }
 .profile-loc{
-    color: #333;
-    font-size: 16px;
+    color: #757575;
+    font-size: 14px;
 }
 .designation{
-    color: #333;
-    font-size: 18px;
+    color: #f56a6a;
+    font-size: 16px;
 }
 
 p{
     font-size: 16px;
 }
+.text-uppercase{
+    text-transform: uppercase;
+}
+
+.bold{
+    font-weight: bold;
+}
+.mb-5{
+    margin-bottom: 5px;
+}
+.mb-10{
+    margin-bottom: 10px;
+}
+.mt-5{
+    margin-top: 5px;
+}
+.mt-10{
+    margin-top: 10px;
+}
+
+
+
