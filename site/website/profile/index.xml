@@ -16,9 +16,8 @@
 &lt;tr style="height: 21px;"&gt;
 &lt;td style="width: 35%; height: 21px;"&gt;&lt;br /&gt;&lt;/td&gt;
 &lt;td style="width: 65%; height: 21px;"&gt;
-&lt;p&gt;&lt;span style="color: #000000;"&gt;Priya Raaj&amp;nbsp; Chennai, India&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="color: #000000;"&gt;Web Designer&lt;/span&gt;&lt;/p&gt;
-&lt;/td&gt;
+&lt;div&gt;&lt;span class="profile-name"&gt;Priya Raaj&lt;/span&gt; &lt;span class="profile-loc"&gt;Chennai, India&lt;/span&gt;&lt;/div&gt;
+&lt;span class="designation"&gt;Web Designer&lt;/span&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style="height: 21px;"&gt;
 &lt;td style="width: 35%; height: 21px;"&gt;&lt;br /&gt;&lt;/td&gt;
@@ -52,11 +51,11 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="width: 27.4123%;"&gt;Gender&lt;/td&gt;
-&lt;td style="width: 72.5877%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="width: 72.5877%;"&gt;&lt;br /&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -67,6 +66,6 @@
 &lt;pre class="language-markup"&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;</rte2_html>
 	<createdDate>2019-10-15T09:04:11.110Z</createdDate>
 	<createdDate_dt>2019-10-15T09:04:11.110Z</createdDate_dt>
-	<lastModifiedDate>2019-10-16T13:45:50.503Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-10-16T13:45:50.503Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-10-16T13:53:23.804Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-10-16T13:53:23.804Z</lastModifiedDate_dt>
 </page>
