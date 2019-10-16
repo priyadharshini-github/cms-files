@@ -11,57 +11,43 @@
 	<placeInNav>true</placeInNav>
 	<orderDefault_f>11000</orderDefault_f>
 	<rte2_html>&lt;div class="row"&gt;
-&lt;div class="col-4"&gt;&lt;img src="static-assets/images/profile.jpg" alt="" width="150" height="194" /&gt;&lt;/div&gt;
-&lt;div class="col-8 vertical-align"&gt;
-&lt;div class="mb-5"&gt;&lt;span class="profile-name"&gt;Priya Raaj&lt;/span&gt; &lt;img src="static-assets/images/location1.png" alt="" width="20" height="20" /&gt;&lt;span class="profile-loc"&gt;Chennai, India&lt;/span&gt;&lt;/div&gt;
+&lt;div class="col-4"&gt;&lt;img src="static-assets/images/profile.jpg" alt="" width="170" height="194" /&gt;&lt;/div&gt;
+&lt;div class="col-8"&gt;
+&lt;div class="mb-1 mt-2"&gt;&lt;span class="profile-name"&gt;Priya Raaj&lt;/span&gt; &lt;img src="static-assets/images/location1.png" alt="" width="20" height="20" /&gt;&lt;span class="profile-loc"&gt;Chennai, India&lt;/span&gt;&lt;/div&gt;
 &lt;span class="designation"&gt;Web Designer&lt;/span&gt;&lt;/div&gt;
 &lt;/div&gt;
-&lt;table style="border-collapse: collapse; width: 100%; height: 42px;" border="1"&gt;
-&lt;tbody&gt;
-&lt;tr style="height: 21px;"&gt;
-&lt;td style="width: 35%; height: 21px;"&gt;&lt;br /&gt;&lt;/td&gt;
-&lt;td style="width: 65%; height: 21px;"&gt;Contact Information&lt;br /&gt;&lt;br /&gt;
-&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="width: 26.9737%;"&gt;Phone&lt;/td&gt;
-&lt;td style="width: 73.0263%;"&gt;&lt;br /&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="width: 26.9737%;"&gt;Email&lt;/td&gt;
-&lt;td style="width: 73.0263%;"&gt;&lt;br /&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="width: 26.9737%;"&gt;Address&lt;/td&gt;
-&lt;td style="width: 73.0263%;"&gt;&lt;br /&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="width: 26.9737%;"&gt;Site&lt;/td&gt;
-&lt;td style="width: 73.0263%;"&gt;&lt;br /&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;Basic Information&lt;/p&gt;
-&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="width: 27.4123%;"&gt;DOB&lt;/td&gt;
-&lt;td style="width: 72.5877%;"&gt;&lt;br /&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="width: 27.4123%;"&gt;Gender&lt;/td&gt;
-&lt;td style="width: 72.5877%;"&gt;&lt;br /&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</rte2_html>
+&lt;div class="row"&gt;
+&lt;div class="col-4"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="col-8"&gt;Contact Information
+&lt;div class="row"&gt;
+&lt;div class="col-5"&gt;Phone:&lt;/div&gt;
+&lt;div class="col-7"&gt;9876543210&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="row"&gt;
+&lt;div class="col-5"&gt;Email:&lt;/div&gt;
+&lt;div class="col-7"&gt;testing@sample.com&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="row"&gt;
+&lt;div class="col-5"&gt;Address:&lt;/div&gt;
+&lt;div class="col-7"&gt;#333, XYZ Street, City Name, Country&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="row"&gt;
+&lt;div class="col-5"&gt;Site:&lt;/div&gt;
+&lt;div class="col-7"&gt;-&lt;/div&gt;
+&lt;/div&gt;
+Basic Information
+&lt;div class="row"&gt;
+&lt;div class="col5"&gt;DOB:&lt;/div&gt;
+&lt;div class="col-7"&gt;9876543210&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="row"&gt;
+&lt;div class="col-5"&gt;Gender:&lt;/div&gt;
+&lt;div class="col-7"&gt;testing@sample.com&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</rte2_html>
 	<createdDate>2019-10-15T09:04:11.110Z</createdDate>
 	<createdDate_dt>2019-10-15T09:04:11.110Z</createdDate_dt>
-	<lastModifiedDate>2019-10-16T14:45:15.942Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-10-16T14:45:15.942Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-10-16T14:59:23.803Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-10-16T14:59:23.803Z</lastModifiedDate_dt>
 </page>
