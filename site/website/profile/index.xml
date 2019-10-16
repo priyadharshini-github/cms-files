@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
-	<savedAsDraft>true</savedAsDraft>	<content-type>/page/webpage</content-type>	<display-template>/templates/web/web-component.ftl</display-template>
+	<content-type>/page/webpage</content-type>	<display-template>/templates/web/web-component.ftl</display-template>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>5546</objectGroupId>
