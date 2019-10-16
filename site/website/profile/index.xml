@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
-	<content-type>/page/webpage</content-type>	<display-template>/templates/web/web-component.ftl</display-template>
+	<savedAsDraft>true</savedAsDraft>	<content-type>/page/webpage</content-type>	<display-template>/templates/web/web-component.ftl</display-template>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>5546</objectGroupId>
@@ -14,7 +14,7 @@
 &lt;div class="col-12 col-sm-5 col-md-4 col-lg-3"&gt;&lt;img class="img-fluid" style="width: 100%;" src="static-assets/images/profile.jpg" alt="" /&gt;&lt;/div&gt;
 &lt;div class="col-12 col-sm-7 col-md-8 col-lg-9"&gt;
 &lt;div class="mb-1 mt-2"&gt;&lt;span class="profile-name"&gt;Priya Raaj&lt;/span&gt; &lt;img src="static-assets/images/location1.png" alt="" width="20" height="20" /&gt;&lt;span class="profile-loc"&gt;Chennai, India&lt;/span&gt;&lt;/div&gt;
-&lt;span class="designation"&gt;Web Designer&lt;/span&gt;
+&lt;span class="designation mb-5"&gt;Web Designer&lt;/span&gt;
 &lt;div class="sub-title"&gt;Contact Information&lt;/div&gt;
 &lt;div class="row mb-1 mt-1"&gt;
 &lt;div class="col-12 col-sm-6 col-md-4 col-lg-4"&gt;Phone:&lt;/div&gt;
@@ -45,6 +45,6 @@
 &lt;/div&gt;</rte2_html>
 	<createdDate>2019-10-15T09:04:11.110Z</createdDate>
 	<createdDate_dt>2019-10-15T09:04:11.110Z</createdDate_dt>
-	<lastModifiedDate>2019-10-16T16:02:01.221Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-10-16T16:02:01.221Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-10-16T16:13:04.996Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-10-16T16:13:04.996Z</lastModifiedDate_dt>
 </page>
