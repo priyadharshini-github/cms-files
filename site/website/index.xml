@@ -12,8 +12,8 @@
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2019-11-01T14:24:32.877Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-11-01T14:24:32.877Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-11-01T14:59:23.930Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-01T14:59:23.930Z</lastModifiedDate_dt>
 	<rte2_html>&lt;div class="container login-container"&gt;
 &lt;div class="row"&gt;
 &lt;div class="col-md-6 login-form-1"&gt;
@@ -24,7 +24,6 @@
 &lt;div class="form-group"&gt;&lt;a class="btnForgetPwd" href="#"&gt;Forget Password?&lt;/a&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="col-md-6 login-form-2"&gt;
-&lt;div class="login-logo"&gt;&lt;img src="https://image.ibb.co/n7oTvU/logo_white.png" alt="" /&gt;&lt;/div&gt;
 &lt;h3&gt;Register&lt;/h3&gt;
 &lt;form&gt;
 &lt;div class="form-group"&gt;&lt;input class="form-control" type="text" value="" placeholder="Your Email *" /&gt;&lt;/div&gt;
