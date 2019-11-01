@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
-	<content-type>/page/home</content-type>	<display-template>/templates/web/pages/home.ftl</display-template>
+	<content-type>/page/webpage</content-type>	<display-template>/templates/web/web-component.ftl</display-template>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
 	<placeInNav>false</placeInNav>
@@ -12,29 +12,26 @@
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2019-10-15T06:56:54.566Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-10-15T06:56:54.566Z</lastModifiedDate_dt>
-	<title_t>Editorial</title_t>
-	<hero_text_html>&lt;p&gt;Login&lt;/p&gt;
-&lt;pre class="language-markup"&gt;&lt;code&gt;&lt;form&gt;
-&lt;input type="text" placeholder="Username"&gt;
-&lt;input type="text" placeholder="Password"&gt;
-&lt;/form&gt;&lt;/code&gt;&lt;/pre&gt;</hero_text_html>
-	<hero_title_html>&lt;h1&gt;This is a POC&lt;br /&gt;&lt;/h1&gt;
-&lt;h3&gt;&lt;span style="font-size: 1.5em;"&gt;by Jobuli Technologies.&lt;br /&gt;&lt;/span&gt;&lt;/h3&gt;</hero_title_html>
-	<features_o item-list="true">	<item data-source="features">	<key>/site/components/features/sed-magna-finibus.xml</key>
-	<value>Four</value>
-	<include>/site/components/features/sed-magna-finibus.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item></features_o>
-	<header/>
-	<hero_image_s>/static-assets/images/strawberries.jpg</hero_image_s>
-	<left-rail_o item-list="true">	<item data-source="components-left-rail">	<key>/site/components/left-rails/left-rail-with-no-articles.xml</key>
-	<value>Left Rail with No Articles</value>
-	<include>/site/components/left-rails/left-rail-with-no-articles.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item></left-rail_o>
-	<features_title_t>Erat lacinia</features_title_t>
-	<header_o item-list="true"/>
-	<disabled>false</disabled>
+	<lastModifiedDate>2019-11-01T14:24:32.877Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-01T14:24:32.877Z</lastModifiedDate_dt>
+	<rte2_html>&lt;div class="container login-container"&gt;
+&lt;div class="row"&gt;
+&lt;div class="col-md-6 login-form-1"&gt;
+&lt;h3&gt;Login&lt;/h3&gt;
+&lt;div class="form-group"&gt;&lt;input class="form-control" type="text" value="" placeholder="Your Email *" /&gt;&lt;/div&gt;
+&lt;div class="form-group"&gt;&lt;input class="form-control" type="password" value="" placeholder="Your Password *" /&gt;&lt;/div&gt;
+&lt;div class="form-group"&gt;&lt;input class="btnSubmit" type="submit" value="Login" /&gt;&lt;/div&gt;
+&lt;div class="form-group"&gt;&lt;a class="btnForgetPwd" href="#"&gt;Forget Password?&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="col-md-6 login-form-2"&gt;
+&lt;div class="login-logo"&gt;&lt;img src="https://image.ibb.co/n7oTvU/logo_white.png" alt="" /&gt;&lt;/div&gt;
+&lt;h3&gt;Register&lt;/h3&gt;
+&lt;form&gt;
+&lt;div class="form-group"&gt;&lt;input class="form-control" type="text" value="" placeholder="Your Email *" /&gt;&lt;/div&gt;
+&lt;div class="form-group"&gt;&lt;input class="form-control" type="password" value="" placeholder="Your Password *" /&gt;&lt;/div&gt;
+&lt;div class="form-group"&gt;&lt;input class="form-control" type="password1" value="" placeholder="Confirm Your Password *" /&gt;&lt;/div&gt;
+&lt;div class="form-group"&gt;&lt;input class="btnSubmit" type="submit" value="Register" /&gt;&lt;/div&gt;
+&lt;/form&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</rte2_html>
 </page>
