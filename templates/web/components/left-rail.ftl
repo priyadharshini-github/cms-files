@@ -34,7 +34,7 @@
     </#if>
     <!-- Footer -->
     <footer id="footer">
-      <p class="copyright">&copy; Untitled. All rights reserved. Jobuli Technologies.</p>
+      <p class="copyright">&copy;. All rights reserved.</p>
     </footer>
 
   </div>
