@@ -12,12 +12,12 @@
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2019-11-08T10:34:47.288Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-11-08T10:34:47.288Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-11-08T11:24:13.449Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-08T11:24:13.449Z</lastModifiedDate_dt>
 	<rte2_html>&lt;div class="container login-container"&gt;
 &lt;div class="row"&gt;
 &lt;div class="col-md-12 col-lg-6 offset-lg-3  login-form-2"&gt;
-&lt;h3&gt;Register&lt;/h3&gt;
+&lt;h3&gt;Registery&lt;/h3&gt;
 &lt;form&gt;
 &lt;div class="form-group"&gt;&lt;input class="form-control" type="text" value="" placeholder="Your Email *" /&gt;&lt;/div&gt;
 &lt;div class="form-group"&gt;&lt;input class="form-control" type="password" value="" placeholder="Your Password *" /&gt;&lt;/div&gt;
