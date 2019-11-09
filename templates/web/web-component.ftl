@@ -27,7 +27,8 @@
 					<div id="main">
 						<div class="inner">
 
-							
+							<!-- Header -->
+							<@renderComponent component=contentModel.header_o.item />
 
 							<!-- Banner -->
 								${contentModel.rte2_html}
