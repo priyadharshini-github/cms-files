@@ -13,7 +13,7 @@
 	<rte2_html>&lt;div class="row"&gt;
 &lt;div class="col-12 col-sm-5 col-md-4 col-lg-3"&gt;&lt;img class="img-fluid" style="width: 100%;" src="static-assets/images/profile.jpg" alt="" /&gt;&lt;/div&gt;
 &lt;div class="col-12 col-sm-7 col-md-8 col-lg-9"&gt;
-&lt;div class="mb-1 mt-2"&gt;&lt;span class="profile-name"&gt;Sumat&lt;/span&gt; &lt;img src="static-assets/images/location1.png" alt="" width="20" height="20" /&gt;&lt;span class="profile-loc"&gt;Chennai, India&lt;/span&gt;&lt;/div&gt;
+&lt;div class="mb-1 mt-2"&gt;&lt;span class="profile-name"&gt;Sumat&lt;/span&gt; &lt;img src="static-assets/images/location1.png" alt="" width="20" height="20" /&gt;Bombay&lt;span class="profile-loc"&gt;, India&lt;/span&gt;&lt;/div&gt;
 &lt;div class="designation mb-5"&gt;Business Executive&lt;/div&gt;
 &lt;div class="sub-title"&gt;Contact Information&lt;/div&gt;
 &lt;div class="row mb-2 mt-2"&gt;
@@ -45,6 +45,6 @@
 &lt;/div&gt;</rte2_html>
 	<createdDate>2019-10-15T09:04:11.110Z</createdDate>
 	<createdDate_dt>2019-10-15T09:04:11.110Z</createdDate_dt>
-	<lastModifiedDate>2019-11-09T03:33:35.090Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-11-09T03:33:35.090Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-11-09T03:38:25.914Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-09T03:38:25.914Z</lastModifiedDate_dt>
 </page>
