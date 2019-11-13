@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/profile</content-type>	<display-template>/templates/web/web-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>58a9</objectGroupId>
+	<objectId>58a963b0-28e9-0dea-5c89-86c0bb29434a</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>emp-profile</folder-name>
+	<internal-name>Employee Profile</internal-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<textarea_html>&lt;p&gt;Sample&lt;/p&gt;</textarea_html>
+	<createdDate>2019-11-13T10:23:56.611Z</createdDate>
+	<createdDate_dt>2019-11-13T10:23:56.611Z</createdDate_dt>
+	<lastModifiedDate>2019-11-13T10:23:56.611Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-13T10:23:56.611Z</lastModifiedDate_dt>
+</page>
