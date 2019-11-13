@@ -9,7 +9,7 @@
 	<properties>		<property>
 			<name>display-template</name>
 			<label>Display Template</label>
-			<value>/templates/web/web-component.ftl</value>
+			<value>/templates/web/components/profile.ftl</value>
 			<type>template</type>
 		</property>
 		<property>
