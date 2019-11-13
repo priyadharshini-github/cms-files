@@ -31,8 +31,7 @@
 							<@renderComponent component=contentModel.header_o.item />
 
 							<!-- Banner -->
-								${contentModel.rte2_html}
-
+${contentModel.textarea_html}
 
 						</div>
 					</div>
